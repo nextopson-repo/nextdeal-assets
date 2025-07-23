@@ -1,0 +1,13 @@
+Please add the following state images to this directory:
+- delhi.jpg
+- up.jpg
+- maharashtra.jpg
+- mp.jpg
+- ap.jpg
+- arunachal.jpg
+- assam.jpg
+- bihar.jpg
+- chhattisgarh.jpg
+- goa.jpg
+
+Each image should be a representative landmark or scenic view of the respective state. 
